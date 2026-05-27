@@ -52,6 +52,9 @@
           "platform/administration/roles-permissions"
         ]
       },
+      "pages": [
+  "first-page"
+]
       {
         "group": "Analytics",
         "icon": "chart-bar",
