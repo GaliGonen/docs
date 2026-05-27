@@ -38,7 +38,6 @@
         }
       ]
     },
-
     "directory": "card",
     "groups": [
       {
@@ -53,13 +52,14 @@
           "platform/administration/roles-permissions"
         ]
       },
-          {
-  "group": "Getting Started",
-  "icon": "book",
-  "pages": [
-    "first-page"
-  ]
-}
+      {
+        "group": "Getting Started",
+        "icon": "book",
+        "expanded": true,
+        "pages": [
+          "first-page"
+        ]
+      },
       {
         "group": "Analytics",
         "icon": "chart-bar",
@@ -69,14 +69,6 @@
           "analytics/connect-data",
           "analytics/dashboards/create-dashboard",
           "analytics/reports/scheduled-reports"
-        ]
-      },
-        {
-        "group": "Getting Started",
-        "icon": "chart-bar",
-        "expanded": true,
-        "pages": [
-          "first-page"
         ]
       },
       {
