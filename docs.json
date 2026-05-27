@@ -38,6 +38,13 @@
         }
       ]
     },
+    {
+  "group": "Getting Started",
+  "icon": "book",
+  "pages": [
+    "first-page"
+  ]
+}
     "directory": "card",
     "groups": [
       {
@@ -52,9 +59,6 @@
           "platform/administration/roles-permissions"
         ]
       },
-      "pages": [
-  "first-page"
-]
       {
         "group": "Analytics",
         "icon": "chart-bar",
