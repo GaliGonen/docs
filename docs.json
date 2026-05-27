@@ -70,6 +70,14 @@
           "analytics/reports/scheduled-reports"
         ]
       },
+        {
+        "group": "Getting Started",
+        "icon": "chart-bar",
+        "expanded": true,
+        "pages": [
+          "first-page"
+        ]
+      },
       {
         "group": "Integrations",
         "icon": "plug",
